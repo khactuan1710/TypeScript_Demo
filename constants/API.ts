@@ -1,0 +1,1 @@
+export const BASE_API = 'https://60b4ef87fe923b0017c83297.mockapi.io';

@@ -1,0 +1,6 @@
+module Pods_DemoTypeScript {
+  umbrella header "Pods-DemoTypeScript-umbrella.h"
+
+  export *
+  module * { export * }
+}
